@@ -1,0 +1,176 @@
+﻿model,type,vehicle_count
+330E,Plug-in Hybrid Electric Vehicle (PHEV),515
+500,Battery Electric Vehicle (BEV),714
+500E,Battery Electric Vehicle (BEV),59
+530E,Plug-in Hybrid Electric Vehicle (PHEV),436
+550E,Plug-in Hybrid Electric Vehicle (PHEV),6
+740E,Plug-in Hybrid Electric Vehicle (PHEV),27
+745E,Plug-in Hybrid Electric Vehicle (PHEV),15
+745LE,Plug-in Hybrid Electric Vehicle (PHEV),3
+750E,Plug-in Hybrid Electric Vehicle (PHEV),4
+918,Plug-in Hybrid Electric Vehicle (PHEV),1
+A3,Plug-in Hybrid Electric Vehicle (PHEV),554
+A7 E,Plug-in Hybrid Electric Vehicle (PHEV),13
+A8 E,Plug-in Hybrid Electric Vehicle (PHEV),3
+ACCORD,Plug-in Hybrid Electric Vehicle (PHEV),11
+AIR,Battery Electric Vehicle (BEV),395
+ARIYA,Battery Electric Vehicle (BEV),1718
+AVIATOR,Plug-in Hybrid Electric Vehicle (PHEV),196
+B-CLASS,Battery Electric Vehicle (BEV),83
+BENTAYGA,Plug-in Hybrid Electric Vehicle (PHEV),3
+BLAZER EV,Battery Electric Vehicle (BEV),880
+BOLT EUV,Battery Electric Vehicle (BEV),2860
+BOLT EV,Battery Electric Vehicle (BEV),7278
+BRIGHTDROP 400,Battery Electric Vehicle (BEV),1
+BZ4X,Battery Electric Vehicle (BEV),1342
+C-CLASS,Plug-in Hybrid Electric Vehicle (PHEV),15
+C-MAX,Plug-in Hybrid Electric Vehicle (PHEV),1454
+C40,Battery Electric Vehicle (BEV),523
+CAYENNE,Plug-in Hybrid Electric Vehicle (PHEV),425
+CITY,Battery Electric Vehicle (BEV),5
+CLARITY,Plug-in Hybrid Electric Vehicle (PHEV),862
+CORSAIR,Plug-in Hybrid Electric Vehicle (PHEV),165
+COUNTRYMAN,Battery Electric Vehicle (BEV),87
+COUNTRYMAN,Plug-in Hybrid Electric Vehicle (PHEV),226
+CROSSTREK,Plug-in Hybrid Electric Vehicle (PHEV),93
+CT6,Plug-in Hybrid Electric Vehicle (PHEV),13
+CX-70,Plug-in Hybrid Electric Vehicle (PHEV),72
+CX-90,Plug-in Hybrid Electric Vehicle (PHEV),935
+CYBERTRUCK,Battery Electric Vehicle (BEV),1292
+E-GOLF,Battery Electric Vehicle (BEV),1070
+E-TRON,Battery Electric Vehicle (BEV),1067
+E-TRON GT,Battery Electric Vehicle (BEV),172
+E-TRON SPORTBACK,Battery Electric Vehicle (BEV),177
+EDV,Battery Electric Vehicle (BEV),842
+ELR,Plug-in Hybrid Electric Vehicle (PHEV),77
+EQ FORTWO,Battery Electric Vehicle (BEV),54
+EQB-CLASS,Battery Electric Vehicle (BEV),501
+EQE-CLASS SEDAN,Battery Electric Vehicle (BEV),170
+EQE-CLASS SUV,Battery Electric Vehicle (BEV),429
+EQS-CLASS SEDAN,Battery Electric Vehicle (BEV),254
+EQS-CLASS SUV,Battery Electric Vehicle (BEV),304
+EQUINOX EV,Battery Electric Vehicle (BEV),870
+ESCAPE,Plug-in Hybrid Electric Vehicle (PHEV),562
+ESPRINTER,Battery Electric Vehicle (BEV),6
+EV6,Battery Electric Vehicle (BEV),3430
+EV9,Battery Electric Vehicle (BEV),1387
+EX30,Battery Electric Vehicle (BEV),33
+EX40,Battery Electric Vehicle (BEV),10
+EX90,Battery Electric Vehicle (BEV),26
+F-150,Battery Electric Vehicle (BEV),3016
+FLYING SPUR,Plug-in Hybrid Electric Vehicle (PHEV),3
+FOCUS,Battery Electric Vehicle (BEV),229
+FORTWO,Battery Electric Vehicle (BEV),55
+FORTWO ELECTRIC DRIVE,Battery Electric Vehicle (BEV),133
+FUSION,Plug-in Hybrid Electric Vehicle (PHEV),1707
+G-CLASS,Battery Electric Vehicle (BEV),14
+G80,Battery Electric Vehicle (BEV),18
+GLC-CLASS,Plug-in Hybrid Electric Vehicle (PHEV),300
+GLE-CLASS,Plug-in Hybrid Electric Vehicle (PHEV),273
+GRAND CHEROKEE,Plug-in Hybrid Electric Vehicle (PHEV),1526
+GV60,Battery Electric Vehicle (BEV),231
+GV70,Battery Electric Vehicle (BEV),95
+HARDTOP,Battery Electric Vehicle (BEV),809
+HORNET,Plug-in Hybrid Electric Vehicle (PHEV),780
+HUMMER EV PICKUP,Battery Electric Vehicle (BEV),80
+HUMMER EV SUV,Battery Electric Vehicle (BEV),274
+I-MIEV,Battery Electric Vehicle (BEV),52
+I-PACE,Battery Electric Vehicle (BEV),241
+I3,Battery Electric Vehicle (BEV),612
+I3,Plug-in Hybrid Electric Vehicle (PHEV),1332
+I4,Battery Electric Vehicle (BEV),1656
+I5,Battery Electric Vehicle (BEV),222
+I7,Battery Electric Vehicle (BEV),62
+I8,Plug-in Hybrid Electric Vehicle (PHEV),92
+ID. BUZZ,Battery Electric Vehicle (BEV),64
+ID.4,Battery Electric Vehicle (BEV),4842
+IONIQ,Battery Electric Vehicle (BEV),159
+IONIQ,Plug-in Hybrid Electric Vehicle (PHEV),162
+IONIQ 5,Battery Electric Vehicle (BEV),4056
+IONIQ 5 N,Battery Electric Vehicle (BEV),43
+IONIQ 6,Battery Electric Vehicle (BEV),682
+IX,Battery Electric Vehicle (BEV),1297
+KARMA,Plug-in Hybrid Electric Vehicle (PHEV),11
+KONA,Battery Electric Vehicle (BEV),238
+KONA ELECTRIC,Battery Electric Vehicle (BEV),1153
+LEAF,Battery Electric Vehicle (BEV),13814
+LYRIQ,Battery Electric Vehicle (BEV),1054
+M5,Plug-in Hybrid Electric Vehicle (PHEV),10
+MACAN,Battery Electric Vehicle (BEV),104
+MIRAI,Battery Electric Vehicle (BEV),2
+MODEL 3,Battery Electric Vehicle (BEV),36065
+MODEL S,Battery Electric Vehicle (BEV),7885
+MODEL X,Battery Electric Vehicle (BEV),6535
+MODEL Y,Battery Electric Vehicle (BEV),49253
+MUSTANG MACH-E,Battery Electric Vehicle (BEV),5109
+MX-30,Battery Electric Vehicle (BEV),13
+NIRO,Battery Electric Vehicle (BEV),2670
+NIRO,Plug-in Hybrid Electric Vehicle (PHEV),1222
+NX,Plug-in Hybrid Electric Vehicle (PHEV),384
+OCEAN,Battery Electric Vehicle (BEV),172
+ONE,Battery Electric Vehicle (BEV),2
+OPTIMA,Plug-in Hybrid Electric Vehicle (PHEV),98
+OPTIQ,Battery Electric Vehicle (BEV),5
+OUTLANDER,Plug-in Hybrid Electric Vehicle (PHEV),1062
+PACIFICA,Plug-in Hybrid Electric Vehicle (PHEV),3786
+PANAMERA,Plug-in Hybrid Electric Vehicle (PHEV),142
+POLESTAR 3,Battery Electric Vehicle (BEV),77
+PRIUS PLUG-IN,Plug-in Hybrid Electric Vehicle (PHEV),945
+PRIUS PRIME,Plug-in Hybrid Electric Vehicle (PHEV),3398
+PROLOGUE,Battery Electric Vehicle (BEV),1261
+PROMASTER 3500,Battery Electric Vehicle (BEV),4
+PS2,Battery Electric Vehicle (BEV),1183
+Q4,Battery Electric Vehicle (BEV),441
+Q5,Plug-in Hybrid Electric Vehicle (PHEV),142
+Q5 E,Plug-in Hybrid Electric Vehicle (PHEV),1186
+Q6,Battery Electric Vehicle (BEV),42
+Q8,Battery Electric Vehicle (BEV),483
+R1S,Battery Electric Vehicle (BEV),3641
+R1T,Battery Electric Vehicle (BEV),2267
+RANGE ROVER,Plug-in Hybrid Electric Vehicle (PHEV),56
+RANGE ROVER SPORT,Plug-in Hybrid Electric Vehicle (PHEV),76
+RANGER,Battery Electric Vehicle (BEV),7
+RAV4,Battery Electric Vehicle (BEV),57
+RAV4 PRIME,Plug-in Hybrid Electric Vehicle (PHEV),3734
+REVUELTO,Plug-in Hybrid Electric Vehicle (PHEV),5
+ROADSTER,Battery Electric Vehicle (BEV),50
+RS E-TRON GT,Battery Electric Vehicle (BEV),54
+RX,Plug-in Hybrid Electric Vehicle (PHEV),141
+RZ,Battery Electric Vehicle (BEV),415
+S-CLASS,Plug-in Hybrid Electric Vehicle (PHEV),31
+S60,Plug-in Hybrid Electric Vehicle (PHEV),201
+S90,Plug-in Hybrid Electric Vehicle (PHEV),36
+SANTA FE,Plug-in Hybrid Electric Vehicle (PHEV),253
+SIERRA EV,Battery Electric Vehicle (BEV),6
+SILVERADO EV,Battery Electric Vehicle (BEV),301
+SL-CLASS,Plug-in Hybrid Electric Vehicle (PHEV),1
+SOLTERRA,Battery Electric Vehicle (BEV),1919
+SONATA,Plug-in Hybrid Electric Vehicle (PHEV),77
+SORENTO,Plug-in Hybrid Electric Vehicle (PHEV),785
+SOUL,Battery Electric Vehicle (BEV),380
+SOUL EV,Battery Electric Vehicle (BEV),207
+SPARK,Battery Electric Vehicle (BEV),236
+SPECTRE,Battery Electric Vehicle (BEV),4
+SPORTAGE,Plug-in Hybrid Electric Vehicle (PHEV),1166
+SQ6,Battery Electric Vehicle (BEV),2
+SQ8,Battery Electric Vehicle (BEV),23
+TAYCAN,Battery Electric Vehicle (BEV),802
+TONALE,Plug-in Hybrid Electric Vehicle (PHEV),97
+TRANSIT,Battery Electric Vehicle (BEV),520
+TRANSIT CONNECT ELECTRIC,Battery Electric Vehicle (BEV),4
+TUCSON,Plug-in Hybrid Electric Vehicle (PHEV),583
+TX,Plug-in Hybrid Electric Vehicle (PHEV),19
+V60,Plug-in Hybrid Electric Vehicle (PHEV),91
+VF 8,Battery Electric Vehicle (BEV),2
+VOLT,Plug-in Hybrid Electric Vehicle (PHEV),4709
+WAGONEER S,Battery Electric Vehicle (BEV),4
+WHEEGO,Plug-in Hybrid Electric Vehicle (PHEV),2
+WRANGLER,Plug-in Hybrid Electric Vehicle (PHEV),4425
+X3,Plug-in Hybrid Electric Vehicle (PHEV),344
+X5,Plug-in Hybrid Electric Vehicle (PHEV),2988
+XC40,Battery Electric Vehicle (BEV),1341
+XC60,Plug-in Hybrid Electric Vehicle (PHEV),1599
+XC90,Plug-in Hybrid Electric Vehicle (PHEV),2002
+XM,Plug-in Hybrid Electric Vehicle (PHEV),25
+ZDX,Battery Electric Vehicle (BEV),203
+ZEVO,Battery Electric Vehicle (BEV),5
